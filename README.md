@@ -12,9 +12,9 @@ The project consists of:
 ******************************************************************************************************************
 Steps to follow:
 
-install Playwright by running the command:    ==>    npm init playwright@latest
+Install Playwright by running the command:    ==>    npm init playwright@latest
 
-install Cucumber by running the command:    ==>  npm i @cucumber/cucumber
+Install Cucumber by running the command:    ==>  npm i @cucumber/cucumber
 
 Install cucumber reporting by running the command:  ==>  npm install cucumber-html-reporter --save-dev 
 
