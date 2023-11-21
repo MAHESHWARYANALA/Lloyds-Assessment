@@ -1,0 +1,133 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "find-a-branch-functionality;find-a-branch-functionality-in-edge-browser",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Find a branch Functionality in Edge Browser",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "User navigates to the Personal Banking page in Edge",
+            "match": {
+              "location": "..\\..\\..\\Nov-22- PageObjectModel 1\\Nov-22- PageObjectModel\\Lloyds_Playwright\\node_modules\\@cucumber\\cucumber\\src\\support_code_library_builder\\get_definition_line_and_uri.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2462977299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 16,
+            "name": "User clicks on the Search bar",
+            "match": {
+              "location": "..\\..\\..\\Nov-22- PageObjectModel 1\\Nov-22- PageObjectModel\\Lloyds_Playwright\\node_modules\\@cucumber\\cucumber\\src\\support_code_library_builder\\get_definition_line_and_uri.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4931199599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "User clicks on Find a branch near me",
+            "match": {
+              "location": "..\\..\\..\\Nov-22- PageObjectModel 1\\Nov-22- PageObjectModel\\Lloyds_Playwright\\node_modules\\@cucumber\\cucumber\\src\\support_code_library_builder\\get_definition_line_and_uri.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 98588899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 18,
+            "name": "Allow access to location pop up is displayed",
+            "match": {
+              "location": "..\\..\\..\\Nov-22- PageObjectModel 1\\Nov-22- PageObjectModel\\Lloyds_Playwright\\node_modules\\@cucumber\\cucumber\\src\\support_code_library_builder\\get_definition_line_and_uri.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1041881700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "User is navigated to the Find branch page",
+            "match": {
+              "location": "..\\..\\..\\Nov-22- PageObjectModel 1\\Nov-22- PageObjectModel\\Lloyds_Playwright\\node_modules\\@cucumber\\cucumber\\src\\support_code_library_builder\\get_definition_line_and_uri.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17249799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "User arrives at the Find a branch page",
+            "match": {
+              "location": "..\\..\\..\\Nov-22- PageObjectModel 1\\Nov-22- PageObjectModel\\Lloyds_Playwright\\node_modules\\@cucumber\\cucumber\\src\\support_code_library_builder\\get_definition_line_and_uri.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2654500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "User clicks on View branch first branch given in the search results",
+            "match": {
+              "location": "..\\..\\..\\Nov-22- PageObjectModel 1\\Nov-22- PageObjectModel\\Lloyds_Playwright\\node_modules\\@cucumber\\cucumber\\src\\support_code_library_builder\\get_definition_line_and_uri.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5307999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "Name and Address and Opening Days of the branch are displayed",
+            "match": {
+              "location": "..\\..\\..\\Nov-22- PageObjectModel 1\\Nov-22- PageObjectModel\\Lloyds_Playwright\\node_modules\\@cucumber\\cucumber\\src\\support_code_library_builder\\get_definition_line_and_uri.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20351700
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@lloydsEdge",
+            "line": 13
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "find-a-branch-functionality",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Find a branch Functionality",
+    "tags": [],
+    "uri": "features\\findabranch.feature"
+  }
+]
