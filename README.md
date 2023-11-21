@@ -12,16 +12,15 @@ The project consists of:
 ******************************************************************************************************************
 Steps to follow:
 
-Install Playwright by running the command:    ==>    npm init playwright@latest
+1. Clone the repository using the URL : https://github.com/MAHESHWARYANALA/Lloyds-Assessment
+2. load the project into the Visual Studio Code Editor
+3. Opeb the terminal
+4. Install Playwright and all dependencies by running the command:    ==>    npm install
 
-Install Cucumber by running the command:    ==>  npm i @cucumber/cucumber
+5. If you want to run the test in Chrome browser:    ==>  npm run report-chrome
+      or
+   If you want to run the test in Edge browser:      ==> npm run report-edge
 
-Install cucumber reporting by running the command:  ==>  npm install cucumber-html-reporter --save-dev 
-
-If you want to run the test in Chrome browser:    ==>  npm run report-chrome
-
-If you want to run the test in Edge browser:      ==> npm run report-edge
-
-If you want to run BDD cucumber Reports  by running the command:    ==> node index.js
+6. If you want to run BDD cucumber Reports  by running the command:    ==> node index.js
 
 ******************************************************************************************************************
